@@ -3,10 +3,14 @@
     <fullyQualifiedTypeName name="com.javalec.ex.Calculation"/>
     <fullyQualifiedTypeName name="com.javalec.ex.Calculator"/>
     <fullyQualifiedTypeName name="com.javalec.ex.MyCalculator"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.javalec.ex.MyInfo"/>
     <fullyQualifiedTypeName name="com.javalec.ex.BMICalculator"/>
     <fullyQualifiedTypeName name="org.springframework.context.event.AbstractApplicationEventMulticaster"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.GenericApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
 </qualifiedTypeNameHistroy>

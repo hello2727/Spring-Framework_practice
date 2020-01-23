@@ -5,7 +5,8 @@
     <fullyQualifiedTypeName name="com.javalec.ex.MyCalculator"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.javalec.ex.MyInfo"/>
+    <fullyQualifiedTypeName name="com.javalec.ex.BMICalculator"/>
+    <fullyQualifiedTypeName name="org.springframework.context.event.AbstractApplicationEventMulticaster"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="com.javalec.ex.BMICalculator"/>
 </qualifiedTypeNameHistroy>
